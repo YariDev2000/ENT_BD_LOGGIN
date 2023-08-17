@@ -17,7 +17,13 @@ El proceso que se sigue para poder usar el aplicativo correctamente es el siguie
    ![image](https://github.com/YariDev2000/ENT_BD_LOGGIN/assets/139288245/3034d33d-26ee-41e9-95a6-400c15443c91)
 
 2. Página inicial
-   La pantalla inicial o principal que podrpa visualizar el usuario una vez que se encuentre registrado en el aplicativo, es la siguiente
+   La pantalla inicial o principal que podría visualizar el usuario una vez que se encuentre registrado en el aplicativo, es la siguiente:
+
+   ![image](https://github.com/YariDev2000/ENT_BD_LOGGIN/assets/139288245/31267887-5958-4eaa-bd54-181fc1d67cc0)
+
+   
+
+   
 4. 
 
 
